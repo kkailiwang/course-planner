@@ -1,0 +1,2708 @@
+
+> Course	CS58
+> Title	You Say You Want a Revolution (Blockchain Edition)
+> Units	2
+> Term	Winter
+	> Component	WKS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	11:20:00 AM
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS80Q
+> Title	Race and Gender in Silicon Valley (AFRICAAM 80Q)
+> Units	3
+> Term	Autumn
+	> Component	ISS
+	> Days	Tuesday Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Req	WAY-ED 
+> Prereqs	 none
+
+
+> Course	CS83
+> Title	Playback Theater For Research
+> Units	3
+> Term	Winter
+	> Component	SEM
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	4:20:00 PM
+> Req	WAY-CE 
+> Prereqs	 none
+
+
+> Course	CS93
+> Title	Teaching AI
+> Units	1
+> Term	Spring
+	> Component	WKS
+	> Days	Thursday
+	> Starttime	6:00:00 PM
+	> Endtime	7:20:00 PM
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS100A
+> Title	Problem-solving Lab for CS106A
+> Units	1
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS100B
+> Title	Problem-solving Lab for CS106B
+> Units	1
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS101
+> Title	Introduction to Computing Principles
+> Units	5
+> Term	Autumn
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Req	WAY-FR 
+> Prereqs	 none
+
+
+> Course	CS102
+> Title	Big Data - Tools and Techniques
+> Units	4
+> Term	Winter
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Req	WAY-AQR 
+> Prereqs	 CS106A 
+
+
+> Course	CS103
+> Title	Mathematical Foundations of Computing
+> Units	5
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Summer
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	6:30:00 PM
+	> Endtime	5:20:00 PM
+> Req	WAY-FR 
+> Prereqs	 CS106B CS106B CS103 
+
+
+> Course	CS103A
+> Title	Mathematical Problem-solving Strategies
+> Units	1
+> Term	Autumn
+	> Component	LAB
+	> Days	Tuesday
+	> Starttime	3:00:00 PM
+	> Endtime	5:50:00 PM
+> Term	Winter
+	> Component	LAB
+	> Days	Tuesday
+	> Starttime	3:00:00 PM
+	> Endtime	5:50:00 PM
+> Req	none
+> Prereqs	 CS103 
+
+
+> Course	CS105
+> Title	Introduction to Computers
+> Units	5
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Req	WAY-FR 
+> Prereqs	 none
+
+
+> Course	CS106A
+> Title	Programming Methodology (ENGR 70A)
+> Units	5
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Summer
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Summer
+	> Component	LEC
+	> Days	Monday Tuesday Wednesday Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Summer
+	> Component	LEC
+	> Days	Monday Tuesday Wednesday Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Summer
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	9:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	9:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	9:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Req	WAY-FR 
+> Prereqs	 none
+
+
+> Course	CS106AJ
+> Title	Programming Methodology in JavaScript
+> Units	5
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS106AP
+> Title	Programming Methodology in Python
+> Units	5
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS106B
+> Title	Programming Abstractions (ENGR 70B)
+> Units	5
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	5:50:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Summer
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	9:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Summer
+	> Component	LEC
+	> Days	Monday Tuesday Wednesday Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Summer
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	9:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:30:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	8:30:00 AM
+	> Endtime	9:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Req	WAY-FR 
+> Prereqs	 CS106A 
+
+
+> Course	CS106E
+> Title	Practical Exploration of Computing
+> Units	4
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Req	none
+> Prereqs	 CS106A 
+
+
+> Course	CS106L
+> Title	Standard C++ Programming Laboratory
+> Units	1
+> Term	Autumn
+	> Component	LAB
+	> Days	Tuesday Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Req	none
+> Prereqs	 CS106B or 106X 
+
+
+> Course	CS106S
+> Title	Coding for Social Good
+> Units	1
+> Term	Winter
+	> Component	LAB
+	> Days	Monday
+	> Starttime	2:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	LAB
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	LAB
+	> Days	Monday
+	> Starttime	4:30:00 PM
+	> Endtime	6:20:00 PM
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS106X
+> Title	Programming Abstractions (Accelerated) (ENGR 70X)
+> Units	5
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	12:30:00 PM
+	> Endtime	1:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Req	WAY-FR 
+> Prereqs	 CS106A 
+
+
+> Course	CS107
+> Title	Computer Organization and Systems
+> Units	5
+> Term	Winter
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	1:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Friday
+	> Starttime	12:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Friday
+	> Starttime	12:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Friday
+	> Starttime	11:30:00 AM
+	> Endtime	1:20:00 PM
+> Req	WAY-FR 
+> Prereqs	 CS106B 
+
+
+> Course	CS107A
+> Title	Problem-solving Lab for CS107
+> Units	1
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS107E
+> Title	Computer Systems from the Ground Up
+> Units	5
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:50:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Friday
+	> Starttime	11:30:00 AM
+	> Endtime	1:20:00 PM
+> Req	WAY-FR 
+> Prereqs	 CS106B 
+
+
+> Course	CS108
+> Title	Object-Oriented Systems Design
+> Units	4
+> Term	Winter
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Req	none
+> Prereqs	 CS107 
+
+
+> Course	CS109
+> Title	Introduction to Probability for Computer Scientists
+> Units	5
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	12:00:00 PM
+	> Endtime	1:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	6:00:00 PM
+	> Endtime	7:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	12:30:00 PM
+	> Endtime	1:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	6:00:00 PM
+	> Endtime	7:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	6:30:00 PM
+	> Endtime	7:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	6:00:00 PM
+	> Endtime	7:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	12:00:00 PM
+	> Endtime	1:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	6:00:00 PM
+	> Endtime	7:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Summer
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	7:30:00 PM
+	> Endtime	8:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:50:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:50:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	6:00:00 PM
+	> Endtime	7:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	6:30:00 PM
+	> Endtime	7:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:50:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:50:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:50:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	6:30:00 PM
+	> Endtime	7:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Req	WAY-AQR WAY-FR 
+> Prereqs	 CS103 CS106B MATH51 or CME100 
+
+
+> Course	CS110
+> Title	Principles of Computer Systems
+> Units	5
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	9:30:00 AM
+	> Endtime	10:20:00 AM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:50:00 AM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Summer
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	11:30:00 AM
+	> Endtime	1:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	12:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:50:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:50:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Req	none
+> Prereqs	 CS107 
+
+
+> Course	CS124
+> Title	From Languages to Information (LINGUIST 180, LINGUIST 280)
+> Units	4
+> Term	Winter
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Req	WAY-AQR 
+> Prereqs	 CS103 CS107 CS109 
+
+
+> Course	CS131
+> Title	Computer Vision: Foundations and Applications
+> Units	4
+> Term	Autumn
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS140
+> Title	Operating Systems and Systems Programming
+> Units	4
+> Term	Winter
+	> Component	DIS
+	> Days	Monday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Tuesday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Monday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Tuesday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Req	none
+> Prereqs	 CS110 
+
+
+> Course	CS140E
+> Title	Operating systems design and implementation
+> Units	4
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Req	none
+> Prereqs	 none
+
+
+> Course	CS141
+> Title	Introduction to Computer Sound
+> Units	3
+> Req	none
+> Prereqs	 CS106A 
+
+
+> Course	CS142
+> Title	Web Applications
+> Units	3
+> Term	Winter
+	> Component	DIS
+	> Days	Tuesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Winter
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Monday
+	> Starttime	12:30:00 PM
+	> Endtime	1:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Monday
+	> Starttime	12:30:00 PM
+	> Endtime	1:20:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Winter
+	> Component	DIS
+	> Days	Friday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Tuesday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Req	none
+> Prereqs	 CS107 CS108 
+
+
+> Course	CS143
+> Title	Compilers
+> Units	4
+> Term	Spring
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Req	none
+> Prereqs	 CS103 or 103B CS107 
+
+
+> Course	CS144
+> Title	Introduction to Computer Networking
+> Units	4
+> Term	Winter
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	3:00:00 PM
+	> Endtime	4:20:00 PM
+> Term	Winter
+	> Component	DIS
+	> Days	Monday
+	> Starttime	7:30:00 PM
+	> Endtime	10:20:00 PM
+> Req	none
+> Prereqs	 CS110 
+
+
+> Course	CS145
+> Title	Data Management and Data Systems
+> Units	4
+> Term	Autumn
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Req	none
+> Prereqs	 CS103 CS107 
+
+
+> Course	CS146
+> Title	Introduction to Game Design and Development
+> Units	3
+> Term	Autumn
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:50:00 PM
+> Req	none
+> Prereqs	 CS106A 
+
+
+> Course	PWR1AB
+> Title	Writing & Rhetoric 1: Podcasts to Broadcasts: The Rhetoric of Radio
+> Units	4
+> Req	Writing 1 
+> Prereqs	 none
+
+
+> Course	PWR1ABA
+> Title	Writing & Rhetoric 1: The Rhetoric of Space Exploration
+> Units	4
+> Term	Winter
+	> Component	SEM
+	> Days	Tuesday Thursday
+	> Starttime	11:30:00 AM
+	> Endtime	1:20:00 PM
+> Term	Winter
+	> Component	SEM
+	> Days	Tuesday Thursday
+	> Starttime	9:30:00 AM
+	> Endtime	11:20:00 AM
+> Req	Writing 1 
+> Prereqs	 none
+
+
+> Course	PWR1AF
+> Title	Writing & Rhetoric 1: Schooling in the American Mind: Rhetorics of Teaching and Learning
+> Units	4
+> Term	Winter
+	> Component	SEM
+	> Days	Monday Wednesday
+	> Starttime	11:30:00 AM
+	> Endtime	1:20:00 PM
+> Term	Winter
+	> Component	SEM
+	> Days	Monday Wednesday
+	> Starttime	9:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Spring
+	> Component	SEM
+	> Days	Monday Wednesday
+	> Starttime	11:30:00 AM
+	> Endtime	1:20:00 PM
+> Term	Spring
+	> Component	SEM
+	> Days	Monday Wednesday
+	> Starttime	9:30:00 AM
+	> Endtime	11:20:00 AM
+> Req	Writing 1 
+> Prereqs	 none
+
+
+> Course	ARTHIST1B
+> Title	Introduction to the Visual Arts: History of Western Art from the Renaissance to the Present
+> Units	5
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	3:30:00 PM
+	> Endtime	4:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	12:30:00 PM
+	> Endtime	1:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Friday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	11:30:00 AM
+	> Endtime	12:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	6:30:00 PM
+	> Endtime	7:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Monday
+	> Starttime	1:30:00 PM
+	> Endtime	2:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Monday
+	> Starttime	2:30:00 PM
+	> Endtime	3:20:00 PM
+> Term	Autumn
+	> Component	DIS
+	> Days	Wednesday
+	> Starttime	12:30:00 PM
+	> Endtime	1:20:00 PM
+> Req	WAY-A-II 
+> Prereqs	 none
+
+
+> Course	ARTHIST2
+> Title	Asian Arts and Cultures (JAPAN 60)
+> Units	5
+> Req	WAY-A-II 
+> Prereqs	 none
+
+
+> Course	ARTHIST3
+> Title	Introduction to World Architecture (CLASSICS 54)
+> Units	5
+> Term	Spring
+	> Component	DIS
+	> Days	Tuesday
+	> Starttime	2:00:00 PM
+	> Endtime	2:50:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	4:30:00 PM
+	> Endtime	5:20:00 PM
+> Term	Spring
+	> Component	DIS
+	> Days	Tuesday
+	> Starttime	1:00:00 PM
+	> Endtime	1:50:00 PM
+> Term	Spring
+	> Component	LEC
+	> Days	Tuesday Thursday
+	> Starttime	10:30:00 AM
+	> Endtime	11:50:00 AM
+> Term	Spring
+	> Component	DIS
+	> Days	Thursday
+	> Starttime	5:30:00 PM
+	> Endtime	6:20:00 PM
+> Req	WAY-A-II 
+> Prereqs	 none
+
+
+> Course	AA93
+> Title	Building Trust in Autonomy
+> Units	1
+> Req	none
+> Prereqs	 none
+
+
+> Course	AA100
+> Title	Introduction to Aeronautics and Astronautics
+> Units	3
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday
+	> Starttime	1:30:00 PM
+	> Endtime	2:50:00 PM
+> Req	WAY-AQR WAY-SMA 
+> Prereqs	 none
+
+
+> Course	AA102
+> Title	Introduction to Applied Aerodynamics
+> Units	3
+> Term	Autumn
+	> Component	LEC
+	> Days	Monday Wednesday Friday
+	> Starttime	10:30:00 AM
+	> Endtime	11:20:00 AM
+> Req	none
+> Prereqs	 CME100 CME102 PHYS41 AA100 AA101 or ME70 
+

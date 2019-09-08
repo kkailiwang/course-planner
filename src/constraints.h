@@ -1,0 +1,36 @@
+#ifndef CONSTRAINTS_H
+#define CONSTRAINTS_H
+
+#include "util.h"
+#include "map.h"
+
+const int ALL = 0;
+const int MIN_UNITS = 1;
+const int MIN_COUNT = 2;
+
+const int WAYS = 0;
+
+const int THINK_UNITS = 4;
+const int PWR1_UNITS = 4;
+const int PWR2_UNITS = 4;
+const int yearSpecificUnits = THINK_UNITS + PWR1_UNITS; //used to later balance the quarter schedules.
+
+struct req {
+    //string name;
+    int fulfillType;
+    int numNeeded; //ignored if fulfillType is ALL
+    int reqOverlapGroup; // a course can't be counted for two reqs if they're in the same group.
+};
+
+static Map<string, req> buildGeneralReqMap();
+
+static Map<string, int> buildYearSpecificReqMap();
+
+static const Map<string, int> YEAR_SPECIFIC_REQ = buildYearSpecificReqMap();
+static const Map<string, req> GENERAL_REQ = buildGeneralReqMap();
+
+void buildConcentrationReqMap(Map<string, req>& concReqs);
+
+void timeOverlaps(meetingTime a, meetingTime b);
+
+#endif // CONSTRAINTS_H

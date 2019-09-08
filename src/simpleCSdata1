@@ -1,0 +1,2035 @@
+course: CS58: You Say You Want a Revolution (Blockchain Edition)
+units: 2
+component: WKS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 11:20:00 AM
+reqs:
+Description: This project-based course will give creative students an opportunity to work together on revolutionary change leveraging blockchain technology. The course will provide opportunities for students to become operationally familiar with blockchain concepts, supported by presentation of blockchain fundamentals at a level accessible to those with or without a strong technical background. Specific topics include: incentives, ethics, crypto-commons, values, FOMO 3D, risks, implications and social good. Students will each discover a new possible use-case for blockchain and prototype their vision for the future accordingly. Application and impact areas may come from medicine, law, economics, history, anthropology, or other sectors. Student diversity of background will be valued highly.
+Prereqs: none
+
+course: CS80Q: Race and Gender in Silicon Valley (AFRICAAM 80Q)
+units: 3
+component: ISS
+Days: Tuesday Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+reqs: WAY-ED
+Description: This course interrogates the social challenges of Silicon Valley, a place of privilege, privation, and precarity, and encourages students to perform their own ethnographical studies through writing, coding, engagement, digital culture, and social practice. We will learn about the importance of technology in shaping our critical understanding of social conditions in our community and the global economy.
+Prereqs: none
+
+course: CS83: Playback Theater For Research
+units: 3
+component: SEM
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 4:20:00 PM
+reqs: WAY-CE
+Description: Playback combines elements of theater, community work and storytelling. In a playback show, a group of actors and musicians create an improvised performance based on the audience's personal stories. A playback show brings about a powerful listening and sharing experience. During the course, we will tell, listen, play together, and train in playback techniques. We will write diaries to process our experience in the context of education and research.  The course is aimed to strengthen listening abilities, creativity and the collaborative spirit, all integral parts of doing great science. In playback, as in research, we are always moving together, from the known, to the unknown, and back. There is limited enrollment for this class. Application is required.
+Prereqs: none
+
+course: CS93: Teaching AI
+units: 1
+component: WKS
+Days: Thursday
+starttime: 6:00:00 PM
+endtime: 7:20:00 PM
+reqs:
+Description: For graduate students who are TA-ing an AI course. This course prepares new AI section leaders to teach, write, and evaluate AI content. In class, you will be evaluating final projects individually and as a group. You will have discussions criticizing papers and assigning grades to them. You will analyze and solve discussion session problems on the board, explain algorithmsnlike backpropagation, and learn how to give constructive feedback to students. The class will also include a guest speaker who will give teaching advice and talk about AI. Focus is on teaching skills, techniques, and final projects grading. The class meets once a week for the first 6 weeks of the quarter.
+Prereqs: none
+
+course: CS100A: Problem-solving Lab for CS106A
+units: 1
+reqs:
+Description: Additional problem solving practice for the introductory CS course CS 106A. Sections are designed to allow students to acquire a deeper understanding of CS and its applications, work collaboratively, and develop a mastery of the material. Limited enrollment, permission of instructor required. Concurrent enrollment in CS 106A required.
+Prereqs: none
+
+course: CS100B: Problem-solving Lab for CS106B
+units: 1
+reqs:
+Description: Additional problem solving practice for the introductory CS course CS106B. Sections are designed to allow students to acquire a deeper understanding of CS and its applications, work collaboratively, and develop a mastery of the material. Limited enrollment, permission of instructor required. Concurrent enrollment in CS 106B required.
+Prereqs: none
+
+course: CS101: Introduction to Computing Principles
+units: 5
+component: LEC
+Days: Tuesday Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+reqs: WAY-FR GER:DB-EngrAppSci
+Description: Introduces the essential ideas of computing: data representation, algorithms, programming &quot;code&quot;, computer hardware, networking, security, and social issues. Students learn how computers work and what they can do through hands-on exercises. In particular, students will see the capabilities and weaknesses of computer systems so they are not mysterious or intimidating. Course features many small programming exercises, although no prior programming experience is assumed or required. CS101 is not a complete programming course such as CS106A. CS101 is effectively an alternative to CS105. A laptop computer is recommended for the in-class exercises.
+Prereqs: none
+
+course: CS102: Big Data - Tools and Techniques
+units: 4
+component: LEC
+Days: Tuesday Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+reqs: WAY-AQR
+Description: Aimed at non-CS undergraduate and graduate students who want to learn the basics of big data tools and techniques and apply that knowledge in their areas of study. Many of the world's biggest discoveries and decisions in science, technology, business, medicine, politics, and society as a whole, are now being made on the basis of collecting and analyzing large volumes of data. At the same time, it is surprisingly easy to make errors or come to false conclusions from data analysis alone. This course provides a broad and practical introduction to big data: data analysis techniques including databases, data mining, and machine learning; data analysis tools including spreadsheets, relational databases and SQL, Python, and R; data visualization techniques and tools; pitfalls in data collection and analysis. Tools and techniques are hands-on but at a cursory level, providing a basis for future exploration and application. Prerequisites: comfort with basic logic and mathematical concepts, along with high school AP computer science, CS106A, or other equivalent programming experience.
+Prereqs: CS106A,
+
+course: CS103: Mathematical Foundations of Computing
+units: 5
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 3:30:00 PM
+endtime: 5:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+reqs: WAY-FR GER:DB-Math
+Description: What are the theoretical limits of computing power? What problems can be solved with computers? Which ones cannot? And how can we reason about the answers to these questions with mathematical certainty? This course explores the answers to these questions and serves as an introduction to discrete mathematics, computability theory, and complexity theory. At the completion of the course, students will feel comfortable writing mathematical proofs, reasoning about discrete structures, reading and writing statements in first-order logic, and working with mathematical models of computing devices. Throughout the course, students will gain exposure to some of the most exciting mathematical and philosophical ideas of the late nineteenth and twentieth centuries. Specific topics covered include formal mathematical proofwriting, propositional and first-order logic, set theory, binary relations, functions (injections, surjections, and bijections), cardinality, basic graph theory, the pigeonhole principle, mathematical induction, finite automata, regular expressions, the Myhill-Nerode theorem, context-free grammars, Turing machines, decidable and recognizable languages, self-reference and undecidability, verifiers, and the P versus NP question. Students with significant proofwriting experience are encouraged to instead take CS154. Students interested in extra practice and support with the course are encouraged to concurrently enroll in CS103A. Prerequisite: CS106B or equivalent. CS106B may be taken concurrently with CS103.
+Prereqs: CS106B,
+CS106B,
+CS103,
+
+course: CS103A: Mathematical Problem-solving Strategies
+units: 1
+component: LAB
+Days: Tuesday
+starttime: 3:00:00 PM
+endtime: 5:50:00 PM
+component: LAB
+Days: Tuesday
+starttime: 3:00:00 PM
+endtime: 5:50:00 PM
+reqs:
+Description: Problem solving strategies and techniques in discrete mathematics and computer science. Additional problem solving practice for CS103. In-class participation required. Prerequisite: consent of instructor. Co-requisite: CS103.
+Prereqs: CS103,
+
+course: CS105: Introduction to Computers
+units: 5
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+reqs: WAY-FR GER:DB-EngrAppSci
+Description: For non-technical majors. What computers are and how they work. Practical experience in programming. Construction of computer programs and basic design techniques. A survey of Internet technology and the basics of computer hardware. Students in technical fields and students looking to acquire programming skills should take 106A or 106X. Students with prior computer science experience at the level of 106 or above require consent of instructor. Prerequisite: minimal math skills.
+Prereqs: none
+
+course: CS106A: Programming Methodology (ENGR 70A)
+units: 5
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Friday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Monday Tuesday Wednesday Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 9:20:00 PM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 9:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 9:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: LEC
+Days: Monday Tuesday Wednesday Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+reqs: WAY-FR GER:DB-EngrAppSci
+Description: Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Emphasis is on good programming style and the built-in facilities of respective languages. No prior programming experience required. Summer quarter enrollment is limited. Alternative versions of CS106A may be available which cover most of the same material but in different programming languages.
+Prereqs: none
+
+course: CS106AJ: Programming Methodology in JavaScript
+units: 5
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+reqs:
+Description: Introduction to the engineering of computer applications emphasizing modern software engineering principles: object-oriented design, decomposition, encapsulation, abstraction, and testing. Uses the JavaScript programming language. Emphasis is on good programming style and the built-in facilities of the JavaScript language. No prior programming experience required. This course covers most of the same material as CS106A Section 1 in Java and CS 106A Section 3 in Python, but this course uses the JavaScript programming language. To enroll in this class, enroll in CS 106A Section 2 for Fall Qtr. May be taken for 3 units by grad students. Satisfies WAY-FR requirement.
+Prereqs: none
+
+course: CS106AP: Programming Methodology in Python
+units: 5
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+reqs:
+Description: Introduction to the engineering of computer applications in Python, emphasizing modern software engineering principles: decomposition, abstraction, testing and good programming style. This course covers most of the same material as the other versions of CS106A, but using the Python programming language which is popular for general engineering and web development. Required readings will all be available for free on the web. Students are encouraged to bring a laptop to lecture to do the live exercises which are integrated with lecture. No prior programming experience required. To enroll in this class, enroll in CS 106A Section 3. Satisfies WAY-FR requirement.
+Prereqs: none
+
+course: CS106B: Programming Abstractions (ENGR 70B)
+units: 5
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 5:50:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:30:00 AM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 9:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: LEC
+Days: Monday Tuesday Wednesday Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 9:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 8:30:00 AM
+endtime: 9:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+reqs: WAY-FR GER:DB-EngrAppSci
+Description: Abstraction and its relation to programming. Software engineering principles of data abstraction and modularity. Object-oriented programming, fundamental data structures (such as stacks, queues, sets) and data-directed design. Recursion and recursive data structures (linked lists, trees, graphs). Introduction to time and space complexity analysis. Uses the programming language C++ covering its basic facilities. Prerequisite: 106A or equivalent. Summer quarter enrollment is limited.
+Prereqs: CS106A,
+
+course: CS106E: Practical Exploration of Computing
+units: 4
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+reqs:
+Description: A follow up class to CS106A for non-majors which will both provide practical web programming skills and cover essential computing topics including computer security and privacy. Additional topics will include digital representation of images and music, an exploration of how the Internet works, and a look at the internals of the computer. Students taking the course for 4 units will be required to carry out supplementary programming assignments in addition to the course's regular assignments. Prerequisite: 106A or equivalent
+Prereqs: CS106A,
+
+course: CS106L: Standard C++ Programming Laboratory
+units: 1
+component: LAB
+Days: Tuesday Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+reqs:
+Description: Supplemental lab to 106B and 106X. Additional features of standard C++ programming practice. Possible topics include advanced C++ language features, standard libraries, STL containers and algorithms, object memory management, operator overloading, and inheritance. Prerequisite: consent of instructor. Corequisite: 106B or 106X.
+Prereqs: CS106B or 106X,
+
+course: CS106S: Coding for Social Good
+units: 1
+component: LAB
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 5:20:00 PM
+component: LAB
+Days: Monday
+starttime: 4:30:00 PM
+endtime: 6:20:00 PM
+component: LAB
+Days: Monday
+starttime: 2:30:00 PM
+endtime: 4:20:00 PM
+reqs:
+Description: Survey course on applications of fundamental computer science concepts from CS 106B/X to problems in the social good space (such as health, government, education, and environment). Each week consists of in-class activities designed by student groups, local tech companies, and nonprofits. Introduces students to JavaScript and the basics of web development. Topics have included mental health chatbots, tumor classification with basic machine learning, sentiment analysis of tweets on refugees, and storytelling through virtual reality. Corequisite: 106B or 106X.
+Prereqs: none
+
+course: CS106X: Programming Abstractions (Accelerated) (ENGR 70X)
+units: 5
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 12:30:00 PM
+endtime: 1:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+reqs: WAY-FR GER:DB-EngrAppSci
+Description: Intensive version of 106B for students with a strong programming background interested in a rigorous treatment of the topics at an accelerated pace. Significant amount of additional advanced material and substantially more challenging projects. Some projects may relate to CS department research. Prerequisite: excellence in 106A or equivalent, or consent of instructor.
+Prereqs: CS106A,
+
+course: CS107: Computer Organization and Systems
+units: 5
+component: LEC
+Days: Monday Friday
+starttime: 12:30:00 PM
+endtime: 2:20:00 PM
+component: LEC
+Days: Monday Friday
+starttime: 11:30:00 AM
+endtime: 1:20:00 PM
+component: LEC
+Days: Monday Friday
+starttime: 12:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 1:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 5:20:00 PM
+reqs: WAY-FR GER:DB-EngrAppSci
+Description: Introduction to the fundamental concepts of computer systems. Explores how computer systems execute programs and manipulate data, working from the C programming language down to the microprocessor. Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, elements of code compilation, memory organization and management, and performance evaluation and optimization. Prerequisites: 106B or X, or consent of instructor.
+Prereqs: CS106B,
+
+course: CS107A: Problem-solving Lab for CS107
+units: 1
+reqs:
+Description: Additional problem solving practice for the introductory CS course CS107. Sections are designed to allow students to acquire a deeper understanding of CS and its applications, work collaboratively, and develop a mastery of the material. Limited enrollment, permission of instructor required. Concurrent enrollment in CS 107 required.
+Prereqs: none
+
+course: CS107E: Computer Systems from the Ground Up
+units: 5
+component: LEC
+Days: Monday Friday
+starttime: 11:30:00 AM
+endtime: 1:20:00 PM
+component: LEC
+Days: Monday Friday
+starttime: 11:30:00 AM
+endtime: 12:50:00 PM
+reqs: WAY-FR
+Description: Introduction to the fundamental concepts of computer systems through bare metal programming on the Raspberry Pi. Explores how five concepts come together in computer systems: hardware, architecture, assembly code, the C language, and software development tools. Students do all programming with a Raspberry Pi kit and several add-ons (LEDs, buttons). Topics covered include: the C programming language, data representation, machine-level code, computer arithmetic, compilation, memory organization and management, debugging, hardware, and I/O. Prerequisite: 106B or X, and consent of instructor. There is a $75 required course fee.
+Prereqs: CS106B,
+
+course: CS108: Object-Oriented Systems Design
+units: 4
+component: LEC
+Days: Monday Wednesday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Tuesday Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+reqs: GER:DB-EngrAppSci
+Description: Software design and construction in the context of large OOP libraries. Taught in Java. Topics: OOP design, design patterns, testing, graphical user interface (GUI) OOP libraries, software engineering strategies, approaches to programming in teams. Prerequisite: 107.
+Prereqs: CS107,
+
+course: CS109: Introduction to Probability for Computer Scientists
+units: 5
+component: DIS
+Days: Wednesday
+starttime: 6:00:00 PM
+endtime: 7:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 7:30:00 PM
+endtime: 8:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 9:30:00 AM
+endtime: 10:50:00 AM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 6:00:00 PM
+endtime: 7:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Wednesday
+starttime: 6:30:00 PM
+endtime: 7:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 6:00:00 PM
+endtime: 7:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 6:30:00 PM
+endtime: 7:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 6:00:00 PM
+endtime: 7:20:00 PM
+component: DIS
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 12:00:00 PM
+endtime: 1:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 6:00:00 PM
+endtime: 7:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 12:00:00 PM
+endtime: 1:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:50:00 AM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+component: DIS
+Days: Friday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 6:30:00 PM
+endtime: 7:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 10:30:00 AM
+endtime: 11:50:00 AM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Wednesday
+starttime: 12:30:00 PM
+endtime: 1:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 10:30:00 AM
+endtime: 11:50:00 AM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:50:00 AM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: DIS
+Days: Friday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+reqs: WAY-AQR WAY-FR GER:DB-EngrAppSci
+Description: Topics include: counting and combinatorics, random variables, conditional probability, independence, distributions, expectation, point estimation, and limit theorems. Applications of probability in computer science including machine learning and the use of probability in the analysis of algorithms. Prerequisites: 103, 106B or X, multivariate calculus at the level of MATH 51 or CME 100 or equivalent.
+Prereqs: CS103,
+CS106B,
+MATH51 or CME100,
+
+course: CS110: Principles of Computer Systems
+units: 5
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 9:30:00 AM
+endtime: 10:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:50:00 AM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Wednesday
+starttime: 3:30:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 11:30:00 AM
+endtime: 1:20:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Wednesday
+starttime: 2:30:00 PM
+endtime: 3:20:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:50:00 AM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 10:30:00 AM
+endtime: 11:50:00 AM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Thursday
+starttime: 11:30:00 AM
+endtime: 12:50:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+component: DIS
+Days: Friday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+reqs: GER:DB-EngrAppSci
+Description: Principles and practice of engineering of computer software and hardware systems. Topics include: techniques for controlling complexity; strong modularity using client-server design, virtual memory, and threads; networks; atomicity and coordination of parallel activities; security, and encryption; and performance optimizations. Prerequisite: 107.
+Prereqs: CS107,
+
+course: CS124: From Languages to Information (LINGUIST 180, LINGUIST 280)
+units: 4
+component: LEC
+Days: Tuesday Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+reqs: WAY-AQR
+Description: Extracting meaning, information, and structure from human language text, speech, web pages, social networks. Methods include: string algorithms, edit distance, language modeling, the noisy channel, machine learning classifiers, inverted indices, collaborative filtering, neural embeddings, PageRank. Applications such as question answering, sentiment analysis, information retrieval, text classification, social network models, spell checking, recommender systems, chatbots. Prerequisites: CS103, CS107, CS109.
+Prereqs: CS103,
+CS107,
+CS109,
+
+course: CS131: Computer Vision: Foundations and Applications
+units: 4
+component: LEC
+Days: Tuesday Thursday
+starttime: 1:30:00 PM
+endtime: 2:50:00 PM
+reqs:
+Description: Robots that can navigate space and perform duties, search engines that can index billions of images and videos, algorithms that can diagnose medical images for diseases, or smart cars that can see and drive safely: Lying in the heart of these modern AI applications are computer vision technologies that can perceive, understand and reconstruct the complex visual world. This course is designed for students who are interested in learning about the fundamental principles and important applications of computer vision. Course will introduce a number of fundamental concepts in computer vision and expose students to a number of real-world applications, plus guide students through a series of projects such that they will get to implement cutting-edge computer vision algorithms. Prerequisites: Students should be familiar with Python (i.e. have programmed in Python before) and Linux; plus Calculus &amp; Linear Algebra.
+Prereqs: none
+
+course: CS140: Operating Systems and Systems Programming
+units: 4
+component: DIS
+Days: Tuesday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Monday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Tuesday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+component: LEC
+Days: Monday Wednesday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Monday
+starttime: 4:30:00 PM
+endtime: 5:20:00 PM
+reqs: GER:DB-EngrAppSci
+Description: Operating systems design and implementation. Basic structure; synchronization and communication mechanisms; implementation of processes, process management, scheduling, and protection; memory organization and management, including virtual memory; I/O device management, secondary storage, and file systems. Prerequisite: CS 110.
+Prereqs: CS110,
+
+course: CS140E: Operating systems design and implementation
+units: 4
+component: LEC
+Days: Monday Wednesday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+reqs:
+Description: Students will implement a simple, clean operating system (virtual  memory, processes, file system) in the  C programming language, on a rasberry pi computer and use the result to run a variety of devices and implement a final project.  All hardware is supplied by the instructor, and no previous experience with operating systems, raspberry pi, or embedded programming is required.
+Prereqs: none
+
+course: CS141: Introduction to Computer Sound
+units: 3
+reqs:
+Description: Core mathematics and methods for computer sound with applications to computer science. Background on digital signal processing;  time- and frequency-domain methods. Project-focussed exploration of computer sound areas: fundamentals of sound analysis &amp; synthesis, robotics and learning (sound features, filterbanks &amp; deep learning, perception, localization, tracking, manipulation), speech (recognition, synthesis), virtual and augmented reality (3D auralization, HRTFs, reverberation), computational acoustics (wave simulation, physics-based modeling, animation sound), computer music (music synthesis, instrument modeling, audio effects, historical aspects), games (game audio, music and sound design, middleware), hardware acceleration (architectures, codecs, synthesizers). Prerequisite: CS 106A or equivalent programming experience.
+Prereqs: CS106A,
+
+course: CS142: Web Applications
+units: 3
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Monday
+starttime: 12:30:00 PM
+endtime: 1:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+component: DIS
+Days: Tuesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Tuesday
+starttime: 5:30:00 PM
+endtime: 6:20:00 PM
+component: DIS
+Days: Friday
+starttime: 11:30:00 AM
+endtime: 12:20:00 PM
+component: DIS
+Days: Monday
+starttime: 12:30:00 PM
+endtime: 1:20:00 PM
+component: LEC
+Days: Monday Wednesday Friday
+starttime: 10:30:00 AM
+endtime: 11:20:00 AM
+reqs:
+Description: Concepts and techniques used in constructing interactive web applications. Browser-side web facilities such as HTML, cascading stylesheets, the document object model, and JavaScript frameworks and Server-side technologies such as server-side JavaScript, sessions, and object-oriented databases. Issues in web security and application scalability. New models of web application deployment. Prerequisites: CS 107 and CS 108.
+Prereqs: CS107,
+CS108,
+
+course: CS143: Compilers
+units: 4
+component: LEC
+Days: Tuesday Thursday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+reqs: GER:DB-EngrAppSci
+Description: Principles and practices for design and implementation of compilers and interpreters. Topics: lexical analysis; parsing theory; symbol tables; type systems; scope; semantic analysis; intermediate representations; runtime environments; code generation; and basic program analysis and optimization. Students construct a compiler for a simple object-oriented language during course programming projects. Prerequisites: 103 or 103B, and 107.
+Prereqs: CS103 or 103B,
+CS107,
+
+course: CS144: Introduction to Computer Networking
+units: 4
+component: LEC
+Days: Tuesday Thursday
+starttime: 3:00:00 PM
+endtime: 4:20:00 PM
+component: DIS
+Days: Monday
+starttime: 7:30:00 PM
+endtime: 10:20:00 PM
+reqs: GER:DB-EngrAppSci
+Description: Principles and practice. Structure and components of computer networks, packet switching, layered architectures. Applications: web/http, voice-over-IP, p2p file sharing and socket programming. Reliable transport: TCP/IP, reliable transfer, flow control, and congestion control. The network layer: names and addresses, routing. Local area networks: ethernet and switches. Wireless networks and network security. Prerequisite: CS 110.
+Prereqs: CS110,
+
+course: CS145: Data Management and Data Systems
+units: 4
+component: LEC
+Days: Tuesday Thursday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+reqs: GER:DB-EngrAppSci
+Description: Introduction to the use, design, and implementation of database and data-intensive systems, including data models; schema design; data storage; query processing, query optimization, and cost estimation; concurrency control, transactions, and failure recovery; distributed and parallel execution; semi-structured databases; and data system support for advanced analytics and machine learning. Prerequisites: 103 and 107 (or equivalent).
+Prereqs: CS103,
+CS107,
+
+course: CS146: Introduction to Game Design and Development
+units: 3
+component: LEC
+Days: Tuesday Thursday
+starttime: 4:30:00 PM
+endtime: 5:50:00 PM
+reqs:
+Description: This project-based course provides an introduction to game design covering topics like 2D/3D Art, Audio, User Interfaces, Production, Narrative Design, Marketing, and Publishing. Speakers from the profession will provide relevant context during a weekly seminar. Weekly assignments include in-depth materials and require students to independently create small video games. Classroom meetings will be used to foster student project discussions, and deepen understanding of material. The course culminates with students forming project teams to create a final video game. Assignments will be completed within the Unity game development engine; prior Unity experience is not required. Given class size limitations, an online survey will be distributed before class starts and students will be selected so to achieve a diverse class composition. Prerequisite: CS 106A or equivalent programming experience.
+Prereqs: CS106A,
+
